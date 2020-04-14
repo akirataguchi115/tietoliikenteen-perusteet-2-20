@@ -86,7 +86,7 @@ Kuva : Kaavakuva linkkikerroksen sijainnista
 
 Ethernet on tällä hetkellä yleisin lähiverkon toteutustekniikka. Se on tyypillinen kotiverkon teknologia, koska markkinoilla on tarjolla paljon monitoimireitittimiä, jotka tarjoavat ethernet-tekniikalla toteutettuja kaksipisteyhteyksiä reitittimen portin ja laitteen välille. Kaksipisteyhteys on yleenä toteutettu ns. ethernet-kaapelilla, joka nykyisin on tyypillisesti [parikaapeli](https://fi.wikipedia.org/wiki/Parikaapeli).
 
-Ethernet on standardoitu. Itseasiassa sen toteutustekniikka ja nopeus on vuosien varrella muuttunut aina uuden standardin myötä. Tällä hetkellä tyypilliset verkot ovat 100 Mbit/s ja 1 Gbit/s. Wkipedian sivulla [Ethernet](https://fi.wikipedia.org/wiki/Ethernet) on hyvä tiivis kuvaus ethernetin eri versioista.
+Ethernet on standardoitu. Itseasiassa sen toteutustekniikka ja nopeus on vuosien varrella muuttunut aina uuden standardin myötä. Tällä hetkellä tyypilliset verkot ovat 100 Mbit/s ja 1 Gbit/s. Wikipedian sivulla [Ethernet](https://fi.wikipedia.org/wiki/Ethernet) on hyvä tiivis kuvaus ethernetin eri versioista.
 
 Ethernetin ensimmäiset versiot käyttivät koaksiaalikaapelia ja noudattivat väylätopologiaa. Näissä käytettiin liikenteen hallinnointiin Carrier Sense Media Access / Collision Detection (CSMA/CD) menetelmää, jossa lähettävän solmun piti ensin kuunnella (Carrier Sense), että väylä (Media Access) on vapaa ja sitten vielä lähetyksen aikana kuunnella, ettei mikään muu solmu lähettänyt samaan aikaan, ns yhteentörmäys (Collision Detection).  Tarkastellaan tämän menetelmän toimintaa tarkemmin osassa vuoronjakelu.
 
